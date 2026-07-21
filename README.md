@@ -74,6 +74,8 @@ This demo shows: Start up -> Infinite Loop -> LDAP Injection -> UnsatisfiedLinkE
 * Vulnerabilities
 
   * XSS (Cross-Site Scripting)
+  * Reflected XSS
+  * Stored XSS
   * SQL Injection
   * LDAP Injection
   * Code Injection
@@ -88,11 +90,13 @@ This demo shows: Start up -> Infinite Loop -> LDAP Injection -> UnsatisfiedLinkE
   * Verbose Login Error Messages
   * Dangerous File Inclusion
   * Directory Traversal
+  * Path Traversal
   * Unintended File Disclosure
   * CSRF (Cross-Site Request Forgery)
   * XEE (XML Entity Expansion)
   * XXE (XML eXternal Entity)
   * Clickjacking
+  * SSRF (Server-Side Request Forgery)
 
 * Performance Degradation
 
